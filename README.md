@@ -1,3 +1,7 @@
+This code is an example for diesel [issue](https://github.com/diesel-rs/diesel/issues/2687)
+
+Corrected in the last commit, but I leave as an example of diesel and rust usage
+
 # Requirements
 
 - Create the database
